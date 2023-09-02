@@ -1,0 +1,4 @@
+nombre:nicolas 
+apellidos :garcia martinez
+correo: ngm012977@gmail.com
+sangre: a+
